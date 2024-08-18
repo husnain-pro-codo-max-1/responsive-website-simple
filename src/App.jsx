@@ -18,7 +18,7 @@ function App() {
     <Experts/>
     <NewsLetter/>
     <Plans/>
-    {/* <Footer/> */}
+
     </>
   )
 }
